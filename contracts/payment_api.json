@@ -1,6 +1,6 @@
 {
   "PaymentRequest": {
     "order_id": "string",
-    "amount": "number"
+    "total_amount": "number"
   }
 }
