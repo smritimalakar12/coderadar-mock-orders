@@ -1,0 +1,6 @@
+{
+  "PaymentRequest": {
+    "order_id": "string",
+    "amount": "number"
+  }
+}
